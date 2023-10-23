@@ -1,0 +1,18 @@
+.field-button{
+    /* display:none; */
+    height:50px;
+    width:50px;
+}
+.game-table{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+.game-row{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+.game-definition{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
